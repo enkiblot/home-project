@@ -121,4 +121,11 @@ header .logo {
 .images img {
     width: 300px;
     height: 300px;
+    border-radius: 10px;
+}
+
+.image-wrapper {
+    text-align: center;
+    font-family: "Margarine", sans-serif;
+    color: saddlebrown;
 }
